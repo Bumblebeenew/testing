@@ -8,4 +8,5 @@ def word_count(str):
         else:
             counts[word] = 1
     print("yes, it's correct")
+    print("welldone")
     return counts
