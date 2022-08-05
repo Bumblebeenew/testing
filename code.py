@@ -7,5 +7,5 @@ def word_count(str):
             counts[word] += 1
         else:
             counts[word] = 1
-
+    print("yes, it's correct")
     return counts
